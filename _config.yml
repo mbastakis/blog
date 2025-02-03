@@ -2,3 +2,6 @@ theme: minima
 title: mbastakis
 author: mbastakis
 description: "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
