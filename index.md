@@ -28,5 +28,5 @@ Beyond engineering, I'm an escape room enthusiast, fitness aficionado, and an av
 
 ## 🤝 Let's Connect
 
-📫 Email: mbastakis (at) gmail.com [💼 LinkedIn](https://linkedin.com/in/michail-bastakis) [📂 GitHub](https://github.com/michailbastakis)
+📫 Email: mbastakis (at) gmail.com [💼 LinkedIn](https://linkedin.com/in/mbastakis) [📂 GitHub](https://github.com/mbastakis)
 
