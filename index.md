@@ -1,5 +1,7 @@
 ---
-Welcome to My Blog
+layout: home
+title: Welcome to My Blog
+description: "A space where I share DevOps, Cloud Engineering, and Software Development insights."
 ---
 
 # Purpose
